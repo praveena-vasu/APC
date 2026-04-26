@@ -28,17 +28,17 @@ It performs operations like addition, subtraction, multiplication, and division 
 
     ===== ARBITRARY PRECISION CALCULATOR =====
 
-Enter first number  : 987654321987654321987654321
-Enter second number : 123456789123456789123456789
+    Enter first number  : 987654321987654321987654321
+    Enter second number : 123456789123456789123456789
 
-Choose Operation:
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Division
+    Choose Operation:
+    1. Addition
+    2. Subtraction
+    3. Multiplication
+    4. Division
 
-Enter choice: 1
+    Enter choice: 1
 
-Result:
-1111111111111111111111111110 
+    Result:
+    1111111111111111111111111110 
 
